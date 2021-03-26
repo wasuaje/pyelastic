@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/wasuaje/Documentos/desarrollo/pyelastic"
+		}
+	],
+	"build_systems":
+	[
+    	{
+    		"name": "Run Pyelastic",
+    		"working_dir": "/home/wasuaje/Documentos/desarrollo/pyelastic",
+    		"cmd": ["$project_path/bin/python", "-u","$file"]
+    	}
+	]
+}
